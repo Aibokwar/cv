@@ -1,0 +1,20 @@
+body{
+  background-color: skyblue;
+  text-align: center;
+  margin:0;
+
+}
+div{
+  background-color: powderblue;
+
+
+}
+
+.bottom-cloud{
+  position:absolute;
+
+}
+.top-cloud{
+  position:absolute;
+  top:20px;
+}
